@@ -13,4 +13,4 @@ The project is broken down into multiple steps:
 * Use my trained model to perform inference on flower images.
 
 
-By the end this project, I'll have an application that can be trained on any set of labeled images. Here my network will be learning about flowers and end up as a command line application.
+By the end this project, I'll have an application that can be trained on any set of labeled images. My network will be learning about flowers and end up as a command line application.
